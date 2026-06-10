@@ -1,0 +1,9 @@
+->Create a complete menu-driven 2D Graphics Editor in C with 
+  Draw Line, Rectangle, Circle, Triangle, Delete Object, Modify
+  Object, and Clear Screen features.
+->Use ASCII graphics on a 25×60 canvas. 
+->Implement DDA line drawing, hollow circle drawing, boundary
+  checking, modular functions, comments, and user-friendly menus. 
+->Also provide algorithm, sample output, and GitHub README documentation
+  suitable for a 5-mark Computer Graphics lab assignment.
+
